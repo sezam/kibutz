@@ -1,0 +1,2 @@
+# kibutz
+miners and configs
